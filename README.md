@@ -1,1 +1,1 @@
-# IIITG-Faculty-Review-Portal
+# Faculty-Review-Portal
